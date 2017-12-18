@@ -41,7 +41,7 @@ Parentheses with order of operations inside
 ```
 
 Parentheses outside expression	
- ```
+```
 	       Infix: ((1*2)+(3/4))
 	       Prefix: +*12/34
 ```
