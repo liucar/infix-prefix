@@ -1,15 +1,3 @@
-/*
- * @author Caroline Liu
- * @date 9/24/17
- * @course CSCI 61
- * @file Liu_HW01.cpp
- *
- * A program that asks the user to enter a math expression in infix
- * or prefix notation, converts it to the other notation, and prints
- * out the result. The program will run until the user enters 'x' to
- * quit.
- */
-
 #include <iostream>   // For cout, cin
 #include <stack>     // For stack, push, pop, top
 #include <string>   // For string
