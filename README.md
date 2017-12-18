@@ -13,7 +13,7 @@ quit.
 infix or prefix notation
 
 ## Sample Tests: 
--  Order of operations
+Order of operations
 ```
 	       Infix: 1*2+3/4
 	       Prefix: +*12/34
@@ -22,7 +22,7 @@ infix or prefix notation
 	       Infix: ((1*2)+(3/4))
 ```         
 
--  Parentheses within expression
+Parentheses within expression
 ```
 	       Infix: 1*(2+3)/4
 	       Prefix: /*1+234
@@ -31,7 +31,7 @@ infix or prefix notation
 	       Infix: ((1*(2+3))/4)
 ```        
 
--  Parentheses with order of operations inside
+Parentheses with order of operations inside
 ```
 	       Infix: 1*(2+3/4)
 	       Prefix: *1+2/34
@@ -40,7 +40,7 @@ infix or prefix notation
 	       Infix: (1*(2+(3/4)))
 ```
 
- -  Parentheses outside expression	
+Parentheses outside expression	
  ```
 	       Infix: ((1*2)+(3/4))
 	       Prefix: +*12/34
