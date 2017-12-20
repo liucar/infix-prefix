@@ -12,6 +12,8 @@ quit.
 - User must enter a valid mathematical expression in either
 infix or prefix notation
 
+- Uses stacks
+
 ## Sample Tests: 
 Order of operations
 ```
@@ -45,3 +47,6 @@ Parentheses outside expression
 	       Infix: ((1*2)+(3/4))
 	       Prefix: +*12/34
 ```
+
+## Output:
+![alt text](https://user-images.githubusercontent.com/34634457/34195323-c7b36af8-e511-11e7-83b6-6c95778b2da7.png)
