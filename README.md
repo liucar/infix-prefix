@@ -14,7 +14,7 @@ infix or prefix notation
 
 - Uses stacks
 
-## Sample Cases: 
+## Sample Test Cases: 
 Order of operations
 ```
 	       Infix: 1*2+3/4
